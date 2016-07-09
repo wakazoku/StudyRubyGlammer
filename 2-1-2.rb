@@ -33,4 +33,4 @@ d = 4 ; e = "9"
 puts d.to_s + e
 puts d + e.to_i
 msg = %!こんにちはー!
-puts(msg) 
+puts msg
